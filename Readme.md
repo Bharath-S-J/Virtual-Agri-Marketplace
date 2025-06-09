@@ -77,26 +77,6 @@ A web-based platform that bridges the gap between farmers and buyers, enabling d
 
 ---
 
-## 📂 Project Structure
-
-```
-virtual_agro/
-├── index.php              # Main entry point
-├── code.php               # Core business logic
-├── dbcon.php              # Database connection
-├── css/                   # Stylesheets
-│   ├── homepage.css
-│   ├── farmer.css
-│   └── profile.css
-├── images/                # Static images
-├── product_images/        # Product uploads
-├── pro_img/               # Profile images
-├── farmer_files/          # Farmer interfaces
-└── buyer_files/           # Buyer interfaces
-```
-
----
-
 ## ⚙️ Setup Instructions
 
 1. **Database Setup**
